@@ -1,4 +1,4 @@
-# Segunda Maratona Zabbix
+# Zabbix
 
 Este repositório contem os arquivos da segunda maratona Zabbix.
 
